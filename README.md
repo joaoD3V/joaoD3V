@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Fala Dev, aqui é o João Pedro Silva! 😎
+<!-- ## 👨🏻‍💻 Fala Dev, aqui é o João Pedro Silva! 😎
 </br>
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:joao.devweb@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joaodevweb/)
@@ -38,3 +38,4 @@
 [<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />]()
 [<img src="	https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />]()
+ -->
